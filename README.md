@@ -17,17 +17,20 @@ Under each session plan below you will also find a link to each individual sessi
 
 Click on a session below to access a plan of the session and additional resources for that session.
 
+<div align="center">
+
 | Session | Date                 | Topic                        |
-| ------- | :----:              | ---------------------------- |
-| 00     |                   | Important MSE Recap                          |
-| 01      | 9 Feb 08:20 – 11:50 | Introduction + Recap Probability + Stochastic Variables |
+| ------- | :----:               | ---------------------------- |
+| 00      |                      | Important MSE Recap                          |
+| 01      | 9 Feb 08:20 – 11:50  | Introduction + Recap Probability + Stochastic Variables |
 | 02      | 16 Feb 08:20 – 11:50 | Discrete Random Variables |
 | 03      | 23 Feb 08:20 – 11:50 | Continuous Random Variables |
-| 04      | 2 Mar 08:20 – 11:50 | Multivariate Random Variables |
-| 05      | 9 Mar 08:20 – 11:50 | Point Estimation and sampling |
+| 04      | 2 Mar 08:20 – 11:50  | Multivariate Random Variables |
+| 05      | 9 Mar 08:20 – 11:50  | Point Estimation and sampling |
 | 06      | 16 Mar 08:20 – 11:50 | Statistical Intervals |
 | 07      | 23 Mar 08:20 – 11:50 | Hypothesis Testing |
 | 08      | 30 Mar 08:20 – 11:50 | Regression |
 | 09      | 13 Apr 08:20 – 11:50 | Introduction to Stochastic Processes |
 | 10      | 20 Apr 08:20 – 11:50 | Conclude Markov + Recap + Exam |
 
+</div>
