@@ -1,4 +1,4 @@
-<h2 align="center">Introduction + Recap Probability + Stochastic Variables</h2>
+<h2 align="center">01 Introduction + Recap Probability + Stochastic Variables</h2>
 <p><strong>Material:</strong></p>
 <p>ASPE: 1 + 2 (mostly recap from MSE) + 3</p>
 <p>Make sure you are acquainted with common <a target="_blank" href="https://lpsa.swarthmore.edu/BackGround/UsefulSeries/">Series, Approximations, and Identities</a></p>
@@ -38,3 +38,5 @@
 <p>Exam 2016 New Test.3</p>
 <p>Re-exam 2016.3</p>
 <p> </p>
+
+### [Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EuOeq6E9sg9Jjf5n_qCeM80B4uonPufDX4RnR0nFz3EdMg?e=dRNi7T)
