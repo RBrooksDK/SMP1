@@ -2,8 +2,7 @@
 This repository contains resources for the [Stochastic Modelling and Processing](https://en.via.dk/tmh-courses/stochastic-modelling-and-processing) course at VIA University College, Horsens, Denmark. Click on a session below to access a description of the session and additional resources
 
 | Session | Date                 | Topic                        |
-| ------- | :----:              | ---------------------------- |
-| 00     |                   | General Course Info                          |
+| ------- | :----:              | ---------------------------- |                          |
 | 00     |                   | Important MSE Recap                          |
 | 01      | 9 Feb 08:20 – 11:50 | Introduction + Recap Probability + Stochastic Variables |
 | 02      | 16 Feb 08:20 – 11:50 | Discrete Random Variables |
