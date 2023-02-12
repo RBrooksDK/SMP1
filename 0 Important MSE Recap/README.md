@@ -1,3 +1,5 @@
+<h2 align="center">Important MSE Recap</h2>
+
 <p>Boolean Algebra:</p>
 <ul>
  <li>Similar to sets so all rules also apply for sets</li>
