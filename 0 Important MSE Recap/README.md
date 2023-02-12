@@ -31,4 +31,4 @@
 <p>In Lesson 3, you will need to brush up on integrals.&nbsp;It seems that Khan Academy have some nice tutorials on integrals that you may want to check out&nbsp;<a target="_blank" href="https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-7/v/connecting-the-first-and-second-fundamental-theorems-of-calculus">this</a>,&nbsp;<a target="_blank" href="https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-8b/v/antiderivative-of-x-1">this,</a>&nbsp;and&nbsp;<a target="_blank" href="https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-8c/v/reverse-power-rule-for-definite-integrals">this</a>.</p>
 <p>In Lesson 9, you will need a little bit of Linear Algebra. I recommend reading “Matrix Algebra” which is the chapter we use from the Linear Algebra course. If you already passed&nbsp;the Linear Algebra course (i.e. you are on your 7<sup>th</sup> semester), you will probably not need to worry about this prerequisite.</p>
 
-### Resources and activities
+### [Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/En0s5AGeHABFl6Vb0SaGndwBNjmoxJ3-CbjwXURoX7xScQ?e=fiKF5a)
