@@ -23,7 +23,7 @@ Click on a session below to access a plan of the session and additional resource
 
 | Session | Date                 | Topic                        |
 | ------- | :----:               | ---------------------------- |
-| 00      |                      | [Important MSE Recap](https://github.com/RBrooksDK/SMP1/blob/main/Important%20MSE%20Recap/README.md)                          |
+| 00      |                      | [Important MSE Recap](https://github.com/RBrooksDK/SMP1/blob/main/0%20Important%20MSE%20Recap/README.md)                          |
 | 01      | 9 Feb 08:20 – 11:50  | [Introduction + Recap Probability + Stochastic Variables](https://github.com/RBrooksDK/SMP1/blob/main/Introduction%20%2B%20Recap%20Probability%20%2B%20Stochastic%20Variables/README.md) |
 | 02      | 16 Feb 08:20 – 11:50 | Discrete Random Variables |
 | 03      | 23 Feb 08:20 – 11:50 | Continuous Random Variables |
