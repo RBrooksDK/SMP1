@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # SMP1
 This repository contains resources for the [Stochastic Modelling and Processing](https://en.via.dk/tmh-courses/stochastic-modelling-and-processing) course at VIA University College, Horsens, Denmark.
 
