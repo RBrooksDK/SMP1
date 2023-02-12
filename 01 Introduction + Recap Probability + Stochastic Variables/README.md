@@ -1,3 +1,4 @@
+<h2 align="center">Introduction + Recap Probability + Stochastic Variables</h2>
 <p><strong>Material:</strong></p>
 <p>ASPE: 1 + 2 (mostly recap from MSE) + 3</p>
 <p>Make sure you are acquainted with common <a target="_blank" href="https://lpsa.swarthmore.edu/BackGround/UsefulSeries/">Series, Approximations, and Identities</a></p>
