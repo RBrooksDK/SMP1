@@ -15,9 +15,11 @@ I have compiled and uploaded all session from last year (January 2021) to youtub
 
 [Stochastic Modelling 2021 – All sessions](https://youtube.com/playlist?list=PL0bHDtI1FqFxv1ZxzsMn1sfYSxVSBbc05)
 
-Under each session plan below you will also find a link to each individual session.
+Non-session specific resources such as the exercises from the book, solutions, old exam cases, etc. can be found her:
 
-Click on a session below to access a plan of the session and additional resources for that session.
+[General Resources SMP](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Egbdbeb9oy1Oqk8hReXf2-wBibryPlLiVj2ujGdsvH5--w?e=liO02A)
+
+Click on a session below to access a plan of a specific session and additional resources for that session.
 
 <div align="center">
 
