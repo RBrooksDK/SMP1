@@ -29,7 +29,7 @@ Click on a session below to access a plan of a specific session and additional r
 | 01      | 9 Feb 08:20 – 11:50  | [Introduction + Recap Probability + Stochastic Variables](https://github.com/RBrooksDK/SMP1/blob/main/01%20Introduction%20%2B%20Recap%20Probability%20%2B%20Stochastic%20Variables/README.md) |
 | 02      | 16 Feb 08:20 – 11:50 | [Discrete Random Variables](https://github.com/RBrooksDK/SMP1/blob/main/02%20Discrete%20Random%20Variables/README.md) |
 | 03      | 23 Feb 08:20 – 11:50 | [Continuous Random Variables](https://github.com/RBrooksDK/SMP1/blob/main/03%20Continuous%20Random%20Variables/README.md) |
-| 04      | 2 Mar 08:20 – 11:50  | Multivariate Random Variables |
+| 04      | 2 Mar 08:20 – 11:50  | [Multivariate Random Variables](https://github.com/RBrooksDK/SMP1/blob/main/04%20Multivariate%20Random%20Variables/README.md) |
 | 05      | 9 Mar 08:20 – 11:50  | Point Estimation and sampling |
 | 06      | 16 Mar 08:20 – 11:50 | Statistical Intervals |
 | 07      | 23 Mar 08:20 – 11:50 | Hypothesis Testing |
