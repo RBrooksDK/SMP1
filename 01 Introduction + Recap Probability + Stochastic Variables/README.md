@@ -4,7 +4,6 @@
 <p>Make sure you are acquainted with common <a target="_blank" href="https://lpsa.swarthmore.edu/BackGround/UsefulSeries/">Series, Approximations, and Identities</a></p>
 <p>Session from 20/21: <a target="_blank" href="https://youtu.be/F3bB33pqjLw">SMP 1</a></p>
 <hr />
-<p> </p>
 <p>Introduction</p>
 <ul>
  <li>Why do we need statistics and probability theory?</li>
