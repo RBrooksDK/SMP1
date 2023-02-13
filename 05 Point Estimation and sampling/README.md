@@ -15,4 +15,4 @@
 <p>ASPE: 7.2.8 + 7.2.10 + 7.3.3 + 7.3.9 + 7.4.4. (not b) + 7S13</p>
 <p>Also do Problems 5.</p>
 
-[Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EnYOFBJCZ-hNtWAfipCS0pUB6xsNt8lOW1fDyq_l_vNqUg?e=YiyduS)
+### [Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EnYOFBJCZ-hNtWAfipCS0pUB6xsNt8lOW1fDyq_l_vNqUg?e=YiyduS)
