@@ -28,4 +28,4 @@
 
 <p>Exam 2018.2</p>
 
-[Resources and Acitivities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EthiTapbBz1JrNRDVKsHTnkB2LPmmbKwlY22zvyaCJMI9Q?e=qU5gKD)
+### [Resources and Acitivities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EthiTapbBz1JrNRDVKsHTnkB2LPmmbKwlY22zvyaCJMI9Q?e=qU5gKD)
