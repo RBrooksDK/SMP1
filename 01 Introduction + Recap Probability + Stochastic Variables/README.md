@@ -1,5 +1,8 @@
 <h2 align="center">01 Introduction + Recap Probability + Stochastic Variables</h2>
 <p><strong>Material:</strong></p>
+
+#### [Session Notes](https://drive.google.com/file/d/1SYXXAQUVkSau2ZzFN2CJEcv8nklZ29kr/view?usp=sharing)
+
 <p>ASPE: 1 + 2 (mostly recap from MSE) + 3</p>
 <p>Make sure you are acquainted with common <a target="_blank" href="https://lpsa.swarthmore.edu/BackGround/UsefulSeries/">Series, Approximations, and Identities</a></p>
 <p>Session from 20/21: <a target="_blank" href="https://youtu.be/F3bB33pqjLw">SMP 1</a></p>
