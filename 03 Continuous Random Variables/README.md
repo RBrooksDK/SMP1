@@ -1,3 +1,5 @@
+<h2 align="center">03 Continuous Random Variables</h2>
+
 <p><strong>Material:</strong></p>
 
 <p>ASPE: 4 (not 4.8-4.11)</p>
