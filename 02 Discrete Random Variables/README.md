@@ -1,8 +1,8 @@
 <h2 align="center">02 Discrete Random Variables</h2>
 
-#### [Session Notes](https://drive.google.com/file/d/1mI1v50411PlGygcmpti032shpl57oRJe/view?usp=sharing)
-
 <p><strong>Material:</strong></p>
+
+#### [Session Notes](https://drive.google.com/file/d/1mI1v50411PlGygcmpti032shpl57oRJe/view?usp=sharing)
 
 <p>ASPE: 3</p>
 
