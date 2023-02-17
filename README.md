@@ -31,7 +31,7 @@ Click on a session below to access a plan of a specific session and additional r
 | 03      | 23 Feb 08:20 – 11:50 | [Continuous Random Variables](https://github.com/RBrooksDK/SMP1/blob/main/03%20Continuous%20Random%20Variables/README.md) |
 | 04      | 2 Mar 08:20 – 11:50  | [Multivariate Random Variables](https://github.com/RBrooksDK/SMP1/blob/main/04%20Multivariate%20Random%20Variables/README.md) |
 | 05      | 9 Mar 08:20 – 11:50  | [Point Estimation and sampling](https://github.com/RBrooksDK/SMP1/blob/main/05%20Point%20Estimation%20and%20sampling/README.md) |
-| 06      | 16 Mar 08:20 – 11:50 | Statistical Intervals |
+| 06      | 16 Mar 08:20 – 11:50 | [Statistical Intervals](https://github.com/RBrooksDK/SMP1/blob/main/06%20Statistical%20Intervals/README.md) |
 | 07      | 23 Mar 08:20 – 11:50 | Hypothesis Testing |
 | 08      | 30 Mar 08:20 – 11:50 | Regression |
 | 09      | 13 Apr 08:20 – 11:50 | Introduction to Stochastic Processes |
