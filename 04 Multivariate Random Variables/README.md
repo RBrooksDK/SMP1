@@ -10,6 +10,8 @@
 
 <p>This is arguably the most difficult of all the topics.</p>
 
+Multivariate random variables are a collection of random variables that are correlated with each other. The most important elements of multivariate random variables include their mean vector, covariance matrix, and joint probability density function. The mean vector represents the average value of each variable, while the covariance matrix reflects the degree of correlation and variability among the variables. The joint probability density function specifies the probability of obtaining a particular combination of values for the variables. Understanding the key elements of multivariate random variables is crucial for performing statistical analyses, making predictions, and making decisions based on data.
+
 <ul>
 	<li>Joint Probability Distributions</li>
 	<li>Conditional Probability Distributions</li>
