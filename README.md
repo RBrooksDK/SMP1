@@ -35,6 +35,6 @@ Click on a session below to access a plan of a specific session and additional r
 | 07      | 23 Mar 08:20 – 11:50 | [Hypothesis Testing](https://github.com/RBrooksDK/SMP1/blob/main/07%20Hypothesis%20Testing/README.md) |
 | 08      | 30 Mar 08:20 – 11:50 | Regression |
 | 09      | 13 Apr 08:20 – 11:50 | Introduction to Stochastic Processes |
-| 10      | 20 Apr 08:20 – 11:50 | Conclude Markov + Recap + Exam |
+| 10      | 20 Apr 08:20 – 11:50 | [Conclude Markov + Recap + Exam](https://github.com/RBrooksDK/SMP1/blob/main/10%20Markov%20Chains/README.md) |
 
 </div>
