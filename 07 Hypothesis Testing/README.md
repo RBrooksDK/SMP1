@@ -22,3 +22,4 @@
 <p>ASPE: 9.3.8 + 9.3.9 + 9.5.3 + 9.5.4</p>
 <p>Exam 2014.2.c; 2015.3; 2015.4; 2016.4; 2017.5; Reexam 2018.4 (not g)</p>
 
+#### [Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Em4S0kBQDWZPiOBLpJjM3MEBNWQx40JCmPXPRtj0EoO7_g?e=VFim27)
