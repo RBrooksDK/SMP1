@@ -28,5 +28,5 @@
 
 <p>Updating...</p>
 
-### [Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EpMa2OpoQTRLjtQWiM9qhugBXvJkRWuUGK7-4SuiycEDYQ?e=jXf9yT)
+#### [Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EpMa2OpoQTRLjtQWiM9qhugBXvJkRWuUGK7-4SuiycEDYQ?e=jXf9yT)
 
