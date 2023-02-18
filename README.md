@@ -33,7 +33,7 @@ Click on a session below to access a plan of a specific session and additional r
 | 05      | 9 Mar 08:20 – 11:50  | [Point Estimation and sampling](https://github.com/RBrooksDK/SMP1/blob/main/05%20Point%20Estimation%20and%20sampling/README.md) |
 | 06      | 16 Mar 08:20 – 11:50 | [Statistical Intervals](https://github.com/RBrooksDK/SMP1/blob/main/06%20Statistical%20Intervals/README.md) |
 | 07      | 23 Mar 08:20 – 11:50 | [Hypothesis Testing](https://github.com/RBrooksDK/SMP1/blob/main/07%20Hypothesis%20Testing/README.md) |
-| 08      | 30 Mar 08:20 – 11:50 | Regression |
+| 08      | 30 Mar 08:20 – 11:50 | [Regression](https://github.com/RBrooksDK/SMP1/blob/main/08%20Regression/README.md) |
 | 09      | 13 Apr 08:20 – 11:50 | Introduction to Stochastic Processes |
 | 10      | 20 Apr 08:20 – 11:50 | [Conclude Markov + Recap + Exam](https://github.com/RBrooksDK/SMP1/blob/main/10%20Markov%20Chains/README.md) |
 
