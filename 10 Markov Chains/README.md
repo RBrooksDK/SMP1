@@ -9,8 +9,6 @@
 <hr />
 <p>Markov chains are a mathematical framework used to model systems that change over time, such as the weather or the stock market. The key feature of a Markov chain is that it assumes that the future state of the system depends only on its current state, and not on any previous states. This is known as the Markov property. Markov chains are defined by a set of states, a transition matrix that describes the probabilities of moving from one state to another, and an initial state. The long-term behavior of a Markov chain can be analyzed using techniques such as finding the stationary distribution or calculating expected values. Markov chains are used in a wide range of applications, including computer science, physics, finance, and biology, among others.</p>
 
-<p>&nbsp;</p>
-
 <ul>
 	<li>Markov property: The assumption that the future state of a system depends only on its current state, and not on any previous states.</li>
 	<li>State: A possible condition or configuration of the system being modeled.</li>
