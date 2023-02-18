@@ -28,5 +28,5 @@
 
 <p>During the weekend you will also receive a Wiseflow with exam-like exercises. The topics will be from lessons 4-8.</p>
 
-#### [Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EoKqqy67NdBBk7Qnug21TH4BXHHtg2jlNNSF45_H9n7feg?e=d7LENR)
+#### [Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ev05wEbMShxPn7BZdA0uAncBwWrvATthywVt7NfsbGJo6w?e=GGnrFa)
 
