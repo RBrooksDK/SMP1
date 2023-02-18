@@ -27,3 +27,6 @@
 <p><strong>Problems to be worked on in/after classs:</strong></p>
 
 <p>Updating...</p>
+
+### [Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EpMa2OpoQTRLjtQWiM9qhugBXvJkRWuUGK7-4SuiycEDYQ?e=jXf9yT)
+
