@@ -2,6 +2,8 @@
 
 <p><strong>Material:</strong></p>
 
+#### [Session Notes](https://drive.google.com/file/d/1SWrKsEq2ONwBwd6WfnPTQV3g_g-t5MKX/view?usp=sharing)
+
 <p>ASPE: 4 (not 4.8-4.11)</p>
 
 <p>Session from 20/21:&nbsp;<a href="https://youtu.be/KKSraC6Kmsc" target="_blank">SMP 3</a></p>
