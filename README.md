@@ -19,6 +19,8 @@ Non-session specific resources such as the exercises from the book, solutions, o
 
 [General Resources SMP](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Egbdbeb9oy1Oqk8hReXf2-wBibryPlLiVj2ujGdsvH5--w?e=liO02A)
 
+Wiseflow code for all flows that are used during the course is always 0000. This is not the code for the actual exam in June, though.
+
 Click on a session below to access a plan of a specific session and additional resources for that session.
 
 <div align="center">
