@@ -2,6 +2,10 @@
 
 <p><strong>Material:</strong></p>
 
+#### [Recap Notes](https://drive.google.com/file/d/1yZL4gWiAUtDzCDNDwJtEUSrKSSYafxNO/view?usp=sharing)
+#### [CRVs Part 2 Notes](https://drive.google.com/file/d/1pss581Ri0gmEglCWvUAjUXVsaLWqfs63/view?usp=sharing)
+#### [Session Notes](https://drive.google.com/file/d/160LnJfUz7gIi5SIcYPZvsy_C5myEYqOO/view?usp=sharing)
+
 <p>ASPE: 5 (not 5.5-5.8)</p>
 
 <p>Session from 20/21:&nbsp;<a href="https://youtu.be/v4rf4b2YPls" target="_blank">SMP 4</a></p>
