@@ -2,7 +2,7 @@
 
 <p><strong>Material:</strong></p>
 
-#### [Session Notes](https://drive.google.com/file/d/1mI1v50411PlGygcmpti032shpl57oRJe/view?usp=sharing)
+#### [Session Notes](https://drive.google.com/file/d/1fdBbi5PCGe8bK2G2cnY2Vu-R3SaQIWqt/view?usp=sharing)
 
 <p>ASPE: 3</p>
 
