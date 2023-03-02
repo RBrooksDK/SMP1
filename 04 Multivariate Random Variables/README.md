@@ -4,7 +4,7 @@
 
 #### [Recap Notes](https://drive.google.com/file/d/1yZL4gWiAUtDzCDNDwJtEUSrKSSYafxNO/view?usp=sharing)
 #### [CRVs Part 2 Notes](https://drive.google.com/file/d/1pss581Ri0gmEglCWvUAjUXVsaLWqfs63/view?usp=sharing)
-#### [Session Notes](https://drive.google.com/file/d/1eFsxpyPp9W3KqTozGPl9RoxJpoHgY9DU/view?usp=sharing)
+#### [Session Notes](https://drive.google.com/file/d/15LonbLfH9oToNl76casNY0AW1OvdZIbv/view?usp=sharing)
 
 <p>ASPE: 5 (not 5.5-5.8)</p>
 
