@@ -1,7 +1,10 @@
 <h2 align="center">06 Statistical Intervals</h2
 <p><strong>Material:</strong></p>
+
 [Recap Notes](https://drive.google.com/file/d/10xgGtMHdRsu2p9ISkxM1I0RY6_Dah-fx/view?usp=sharing)
+
 [Session Notes](https://drive.google.com/file/d/1TsK3ewuI5jNF6JuT4Yg1Y3JP85F5OZAI/view?usp=sharing)
+
 <p>ASPE: 8 (not 8.6)</p>
 <p>Session from 20/21: <a target="_blank" href="https://youtu.be/lY7hLitDi-U">SMP 6</a></p>
 
