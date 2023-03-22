@@ -1,6 +1,10 @@
 <h2 align="center">07 Hypothesis Testing</h2>
 
 <p><strong>Material:</strong></p
+ 
+[Notes Recap](https://drive.google.com/file/d/1KR85vvK9Oo_QN9WKiHic2bY3ueC3JShL/view?usp=sharing)
+ 
+[Session Notes](https://drive.google.com/file/d/1fg4pstQXTtnNDVbvgWSEwN-CucDAx7Nt/view?usp=sharing)
 
 <p>ASPE: 9.1-9.3 + 9.5 + 9.8 + 10.1-10.4 + 10.6</p>
 
