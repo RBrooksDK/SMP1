@@ -2,7 +2,7 @@
 
 <p><strong>Material:</strong></p
  
-[Notes Recap](https://drive.google.com/file/d/1KR85vvK9Oo_QN9WKiHic2bY3ueC3JShL/view?usp=sharing)
+[Notes Recap](https://drive.google.com/file/d/1WfF_ywaV4FlI0O8WNFSCvIuN5I4MneCz/view?usp=sharing)
  
 [Session Notes](https://drive.google.com/file/d/1fg4pstQXTtnNDVbvgWSEwN-CucDAx7Nt/view?usp=sharing)
 
