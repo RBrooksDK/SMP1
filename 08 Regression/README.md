@@ -26,7 +26,5 @@
 
 <p>2020.4 (not f), 2020.5, 2020.6, 2020.7, Reexam 2018.4, Reexam 2018.5, Reexam 2018.6, 2018.6, 2017.4, 2017.5, 2017.6</p>
 
-<p>During the weekend you will also receive a Wiseflow with exam-like exercises. The topics will be from lessons 4-8.</p>
-
 #### [Resources and activities](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ev05wEbMShxPn7BZdA0uAncBwWrvATthywVt7NfsbGJo6w?e=GGnrFa)
 
