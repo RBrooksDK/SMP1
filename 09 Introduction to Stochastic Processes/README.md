@@ -3,6 +3,8 @@
 
 <p><strong>Material:</strong></p>
 
+[Session Notes](https://drive.google.com/file/d/1QR7YMkkWDB_gz7NnvOF_ddyLskwSpF0m/view?usp=sharing)
+
 <p>Markov Chains Ch. 1 (the rest is not in the syllabus)</p>
 
 <p>Matrix Algebra (optional)</p>
