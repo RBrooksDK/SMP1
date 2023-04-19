@@ -3,6 +3,8 @@
 
 <p><strong>Material:</strong></p>
 
+[Recap Regression](https://drive.google.com/file/d/1KyTzpyse9vU54rra9zfOT2cW2dl8CrP2/view?usp=sharing)
+
 [Session Notes](https://drive.google.com/file/d/1QR7YMkkWDB_gz7NnvOF_ddyLskwSpF0m/view?usp=sharing)
 
 <p>Markov Chains Ch. 1 (the rest is not in the syllabus)</p>
