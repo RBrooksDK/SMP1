@@ -24,7 +24,7 @@
 <hr />
 <p><strong>Problems to be worked on in class:</strong></p>
 
-<p>The Wiseflow exam cases covering the final topics.</p>
+<p>Do Problems 10 and the Wiseflow exam cases covering the final topics.</p>
 
 
 
