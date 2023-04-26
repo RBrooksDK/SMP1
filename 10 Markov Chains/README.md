@@ -4,6 +4,8 @@
 
 <p>All the above!</p>
 
+[Session notes](https://drive.google.com/file/d/1mLSXpKfc34urRq1iS8nJ_Mgf5STyTNNa/view?usp=sharing)
+
 <p>Session from 20/21:&nbsp;<a href="https://youtu.be/18PY0ogn5yI" target="_blank">SMP 10</a></p>
 
 <hr />
