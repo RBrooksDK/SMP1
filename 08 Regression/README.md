@@ -5,6 +5,8 @@
 
 <p>ASPE: 11 (not 11.9)</p>
 
+[Recap Notes](https://drive.google.com/file/d/1lOkNtyC47nASUwwTurVrK0WdwOO8EoG-/view?usp=sharing)
+
 [Session Notes](https://drive.google.com/file/d/1Vgj_yZTWUVjmzksbBMsf-wbO640WfHbj/view?usp=sharing)
 
 <p>Session from 20/21:&nbsp;<a href="https://youtu.be/XmV8qxDEfkE" target="_blank">SMP 8</a></p>
