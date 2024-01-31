@@ -1,4 +1,4 @@
-<h2 align="center">Important MSE Recap</h2>
+<h2 align="center">Important Math Recap</h2>
 
 <p>Boolean Algebra:</p>
 <ul>
