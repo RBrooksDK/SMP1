@@ -9,7 +9,7 @@
 <p>Boolean Algebra:</p>
 <ul>
  <li>Similar to sets so all rules also apply for sets</li>
- <li>Addition is same as union, multiplication the same as intesection and negation same as complement</li>
+ <li>Addition is same as union, multiplication the same as intersection and negation same as complement</li>
  <li>Important: Slide 12 about identities</li>
 </ul>
 <p>Sets</p>
