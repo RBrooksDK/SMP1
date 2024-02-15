@@ -30,7 +30,7 @@ Session from 20/21: [SMP 2](https://youtu.be/cXtY94_iETI)
 
 - All exercises in “Problems 2”
 ```python
-while student == "bored":
+while student is "bored":
     additional_exercises = [
         "Exam 2014.3 (a-c)",
         "Exam 2016 New Test.2",
