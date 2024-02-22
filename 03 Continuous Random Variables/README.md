@@ -3,7 +3,9 @@
 ## Material:
 ASPE: 4 (not 4.8-4.11)
 
-[Session notes](https://drive.google.com/file/d/1hxQoMvUH7-xpptL7sccdTDaV9rL9sl-B/view?usp=sharing)
+[Session notes Part 1](https://drive.google.com/file/d/1hxQoMvUH7-xpptL7sccdTDaV9rL9sl-B/view?usp=sharing)
+
+[Session notes Part 2](https://drive.google.com/file/d/1cHoLN7PnP7KE4EzSpOGRQXJyx3MM28LI/view?usp=sharing)
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ev_P59eY9qJOiDMwGkdri9ABxzovHXJiHdLP432519F7vQ?e=gwTShz)
 
