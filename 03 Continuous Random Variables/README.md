@@ -3,6 +3,8 @@
 ## Material:
 ASPE: 4 (not 4.8-4.11)
 
+[Recap notes](https://drive.google.com/file/d/12DQ7xCtv_AxwvfAYR-HQlhGw6TVWPEv5/view?usp=sharing)
+
 [Session notes Part 1](https://drive.google.com/file/d/1hxQoMvUH7-xpptL7sccdTDaV9rL9sl-B/view?usp=sharing)
 
 [Session notes Part 2](https://drive.google.com/file/d/1cHoLN7PnP7KE4EzSpOGRQXJyx3MM28LI/view?usp=sharing)
