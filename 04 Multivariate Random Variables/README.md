@@ -6,7 +6,7 @@ ASPE: 5 (not 5.5-5.8)
 
 [Recap Notes](https://drive.google.com/file/d/1yZL4gWiAUtDzCDNDwJtEUSrKSSYafxNO/view?usp=sharing)
 
-[CRVs Part 2 Notes](https://drive.google.com/file/d/1cHoLN7PnP7KE4EzSpOGRQXJyx3MM28LI/view?usp=sharing)
+[CRVs Part 2 Notes](https://drive.google.com/open?id=1pss581Ri0gmEglCWvUAjUXVsaLWqfs63&usp=drive_fs)
 
 [Session notes](https://drive.google.com/file/d/15LonbLfH9oToNl76casNY0AW1OvdZIbv/view?usp=sharing)
 
