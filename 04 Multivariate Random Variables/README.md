@@ -10,7 +10,7 @@ ASPE: 5 (not 5.5-5.8)
 
 [Session notes](https://drive.google.com/file/d/15LonbLfH9oToNl76casNY0AW1OvdZIbv/view?usp=sharing)
 
-[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EjtQ-XxRg0ZHpoGybUWEoxEBSWLdT_xjj61NXNDnsy2rXQ?e=p66Uq7)
+[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EjtQ-XxRg0ZHpoGybUWEoxEBURbxcjltOA2DLlnn71J3rQ?e=sgrok2)
 
 Session from 20/21: [SMP 4](https://youtu.be/v4rf4b2YPls)
 
