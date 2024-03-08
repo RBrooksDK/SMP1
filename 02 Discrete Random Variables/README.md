@@ -9,7 +9,7 @@ ASPE: 3
 
 [Session notes](https://drive.google.com/open?id=1LJ8Nu0D1PLLB1FF1jTsLK50HGLhl1EtG&authuser=richardbrooks.dk%40gmail.com&usp=drive_fs)
 
-[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EthiTapbBz1JrNRDVKsHTnkB2LPmmbKwlY22zvyaCJMI9Q?e=qU5gKD)
+[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EhdrSUncZ_dAgILoCdSYFkUBoa7ofQPkAdQaCx7N39oPSQ?e=OJwsEY)
 
 Session from 20/21: [SMP 2](https://youtu.be/cXtY94_iETI)
 
