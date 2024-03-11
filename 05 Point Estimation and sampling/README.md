@@ -6,7 +6,7 @@ ASPE: 7 (not 7.3.4 and 7.4.3)
 
 [Recap Exercises](https://drive.google.com/file/d/15vP2bfnEBytHyHX63h350AG_9xbyGdZE/view?usp=sharing)
 
-[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EsTygtHYloNAjRUXTjKWt_4BI_VtMrkiOSlSpzvtAriAtw?e=9I2UCc)
+[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EnYOFBJCZ-hNtWAfipCS0pUB6xsNt8lOW1fDyq_l_vNqUg?e=BSqiaH)
 
 Session from 20/21: [SMP 5](https://youtu.be/ZBIyMSuUz_Y)
 
