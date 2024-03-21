@@ -3,7 +3,7 @@
 ## Material:
 ASPE: 9.1-9.3 + 9.5 + 9.8 + 10.1-10.4 + 10.6
 
-[Notes recap](https://drive.google.com/file/d/1WfF_ywaV4FlI0O8WNFSCvIuN5I4MneCz/view?usp=sharing)
+[Notes recap](https://drive.google.com/file/d/1KR85vvK9Oo_QN9WKiHic2bY3ueC3JShL/view?usp=sharing)
 
 [Session notes](https://drive.google.com/file/d/1fg4pstQXTtnNDVbvgWSEwN-CucDAx7Nt/view?usp=sharing)
 
@@ -21,7 +21,7 @@ Hypothesis testing is a statistical method used to evaluate whether a certain hy
 - Tests on mean and proportion
 - One and two tailed tests
 - Paired t-test
-- Contingency table tests
+- Contingency table tests (next time in recap)
 
 ---
 
