@@ -7,7 +7,7 @@ In simple linear regression, the slope parameter (often denoted as $\beta_1$) re
 1. **Least Squares Estimation**:
    The most common method for calculating the slope in simple linear regression is the least squares estimation. The formula for the slope ($\beta_1$) using this method is:
    
-   > $$\boxed{
+   $$\boxed{
    \beta_1 = \frac{\sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})}{\sum_{i=1}^n (x_i - \overline{x})^2}}
    $$
 
@@ -15,14 +15,14 @@ In simple linear regression, the slope parameter (often denoted as $\beta_1$) re
 
 2. **Covariance and Variance Method**:
    This is essentially a rearrangement of the least squares formula, emphasizing the use of covariance and variance:
-   > $$
+   $$
    \beta_1 = \frac{\text{Cov}(X, Y)}{\text{Var}(X)}
    $$
    where $\text{Cov}(X, Y)$ is the covariance between X and Y, and $\text{Var}(X)$ is the variance of X.
 
 3. **Matrix Algebra (Using Normal Equation)**:
    When dealing with linear regression in matrix terms, the slope can be calculated using the normal equation:
-   > $$
+   $$
    \beta = (X^T X)^{-1} X^T Y
    $$
    Here, $X$ is the matrix of input features (including a column of ones for the intercept if it's included in the model), and $Y$ is the vector of output values. For simple linear regression, this simplifies to:
@@ -33,7 +33,7 @@ In simple linear regression, the slope parameter (often denoted as $\beta_1$) re
 
 4. **Gradient Descent**:
    Though not a formula in the traditional sense, gradient descent is an algorithmic approach used to find the minimum of the cost function (typically mean squared error) in regression. The update rule in each iteration for $\beta_1$ would be:
-   > $$
+   $$
    \beta_1^{(new)} = \beta_1^{(old)} - \alpha \frac{\partial}{\partial \beta_1} MSE
    $$
    where $\alpha$ is the learning rate and $\frac{\partial}{\partial \beta_1} MSE$ is the derivative of the mean squared error with respect to $\beta_1$.
@@ -48,7 +48,7 @@ The formula for calculating the slope ($\beta_1$) in simple linear regression th
 
 The fundamental expression for the slope, which you may already be familiar with from the above, is:
 
-> $$
+$$
 \beta_1 = \frac{\sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})}{\sum_{i=1}^n (x_i - \overline{x})^2}
 $$
 
