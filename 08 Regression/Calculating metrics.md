@@ -124,7 +124,7 @@ That means we can also formulate the slope as:
 
 > $$
 \beta_1 = \frac{S_{xy}}{S_{xx}} = \frac{\sum_{i=1}^n x_i y_i - n \overline{x} \overline{y}}{\sum_{i=1}^n x_i^2 - n\overline{x}^2}
-$$
+$$ {#ref1}
 
 
 ### 2. Formula Using Covariance and Variance
@@ -266,4 +266,64 @@ This approach normalizes both variables to have zero mean and unit variance, sim
   - The term $ n $ is the number of data points.
 
 The denominator involves the square roots of the products of $ n $ and the sum of squares of $ x $ and $ y $, minus the square of the sum of $ x $ and $ y $ values, all scaled by $ n $. This structure follows the formula for the standard deviation, scaled to the sample size to adjust for bias, fitting the denominator of the correlation coefficient formula. This formula effectively measures the strength and direction of a linear relationship between two variables.
+
+## Example: Exam 2020, Asignment 7:
+
+**Problem:**
+
+A professor in the School of Engineering in a university polled a dozen colleagues about the number of professional meetings they attended in the past five years $(x)$ and the number of papers they submitted to refereed journals $(y)$ during the same period. The summary data are given as follows:
+$$
+\begin{aligned}
+n & =12, \quad \bar{x}=4, \quad \bar{y}=12 \\
+\sum_{i=1}^n x_i^2 & =232, \quad \sum_{i=1}^n x_i y_i=318
+\end{aligned}
+$$
+
+Fit a simple linear regression model between $x$ and $y$ by finding out the estimates of intercept and slope. Hint: Use the Least Squares Estimates formula from the book.
+
+**Solution:**
+
+Given the values you've provided, we can use the formulas for calculating the slope ($\beta_1$) and intercept ($\beta_0$) of the linear regression model. Here's how you can calculate each of these using the information given:
+
+From one of the variations provided [earlier](#ref1):
+
+$$
+\beta_1 = \frac{\sum_{i=1}^n x_i y_i - n \overline{x} \overline{y}}{\sum_{i=1}^n x_i^2 - n \overline{x}^2}
+$$
+
+Let's plug in the values:
+
+- $n = 12$
+- $\overline{x} = 4$
+- $\overline{y} = 12$
+- $\sum_{i=1}^n x_i^2 = 232$
+- $\sum_{i=1}^n x_i y_i = 318$
+
+Calculating $\beta_1$:
+
+$$
+\beta_1 = \frac{318 - 12 \times 4 \times 12}{232 - 12 \times 4^2}
+$$
+
+### 2. Formula for Intercept ($\beta_0$)
+
+Once we have $\beta_1$, we can calculate the intercept $\beta_0$ using the formula:
+
+$$
+\beta_0 = \overline{y} - \beta_1 \overline{x}
+$$
+
+We'll compute $\beta_1$ first and then use it to find $\beta_0$. Let's calculate these values.
+
+Using the provided data, the estimated parameters for your linear regression model are:
+
+- Slope ($\beta_1$): $-6.45$
+- Intercept ($\beta_0$): $37.8$
+
+Thus, the fitted linear regression model can be expressed as:
+$$
+y = 37.8 - 6.45x
+$$
+This equation predicts the value of $y$ based on the value of $x$, with the model suggesting that $y$ decreases by approximately 6.45 units for every one unit increase in $x$.
+
 
