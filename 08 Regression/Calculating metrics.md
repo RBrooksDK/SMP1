@@ -2,7 +2,7 @@
 
 ## The Slope (and intercept)
 
-In simple linear regression, the slope parameter (often denoted as $\beta_1$) represents the relationship between the independent variable (X) and the dependent variable (Y). The slope indicates how much the dependent variable is expected to increase (or decrease) for a one-unit increase in the independent variable. There are several ways to compute this slope, and here are some of the key methods:
+In simple linear regression, the slope parameter (often denoted as $\beta_1$) represents the relationship between the independent variable (X) and the dependent variable (Y). The slope indicates how much the dependent variable is expected to increase (or decrease) for a one-unit increase in the independent variable. There are several ways to compute this slope, and here are some of the key methods:n
 
 1. **Least Squares Estimation**:
    The most common method for calculating the slope in simple linear regression is the least squares estimation. The formula for the slope ($\beta_1$) using this method is:
