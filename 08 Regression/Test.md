@@ -24,9 +24,7 @@ The fundamental expression for the slope is the one stated above. But we can als
 *Derivation of $(S_{xy})$*
 
 The regular form for the sum of products of deviations for $x$ and $y$ is:
-$$
-S_{xy} = \sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})
-$$
+$$S_{xy} = \sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})$$
 
 Expanding this sum:
 $$
