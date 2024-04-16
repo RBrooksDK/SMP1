@@ -9,7 +9,7 @@ In simple linear regression, the slope parameter (often denoted as $\beta_1$) re
 
    \[
    \beta_1 = \frac{\sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})}{\sum_{i=1}^n (x_i - \overline{x})^2}
-   \]
+   ]
 
    where $x_i$ and $y_i$ are the individual sample points, and $\overline{x}$ and $\overline{y}$ are the means of the X and Y variables, respectively.
 
