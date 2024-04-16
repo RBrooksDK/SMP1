@@ -5,11 +5,11 @@
 In simple linear regression, the slope parameter (often denoted as $\beta_1$) represents the relationship between the independent variable (X) and the dependent variable (Y). The slope indicates how much the dependent variable is expected to increase (or decrease) for a one-unit increase in the independent variable. There are several ways to compute this slope, and here are some of the key methods:
 
 ### Least Squares Estimation:
-   The most common method for calculating the slope in simple linear regression is the least squares estimation. The formula for the slope ($\beta_1$) using this method is:
+The most common method for calculating the slope in simple linear regression is the least squares estimation. The formula for the slope ($\beta_1$) using this method is:
    
-   $$\boxed{
-   \beta_1 = \frac{\sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})}{\sum_{i=1}^n (x_i - \overline{x})^2}}
-   $$
+$$\boxed{
+\beta_1 = \frac{\sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})}{\sum_{i=1}^n (x_i - \overline{x})^2}}
+$$
 
    In this expression:
 - $\sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})$ is the sum of the products of the deviations of $x$ and $y$ from their respective means. This term captures the covariance between $x$ and $y$, indicating how much $x$ and $y$ vary together from their mean values (though excluding $\frac{1}{n-1}$). This term is often denoted $S_{xy}$.
