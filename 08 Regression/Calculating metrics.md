@@ -58,7 +58,7 @@ In this expression:
 - $\sum_{i=1}^n (x_i - \overline{x})^2$ represents the sum of the squares of the deviations of $x$ from its mean. This term is a measure of the total variance in $x$ and helps normalize the covariance in the numerator. This term is often denoted $S_{xy}$.
 - $n$ is the number of observations, indicating the total number of data points in the dataset.
 
-#### Sum of Products {#ref1}
+#### Sum of Products
 
 *Derivation of $(S_{xy})$*
 
@@ -287,7 +287,7 @@ Fit a simple linear regression model between $x$ and $y$ by finding out the esti
 
 Given the values you've provided, we can use the formulas for calculating the slope ($\beta_1$) and intercept ($\beta_0$) of the linear regression model. Here's how you can calculate each of these using the information given:
 
-From one of the variations provided [earlier](#ref1):
+From one of the variations provided [earlier](#3-breakdown-using-individual-sum-terms):
 
 $$
 \beta_1 = \frac{\sum_{i=1}^n x_i y_i - n \overline{x} \overline{y}}{\sum_{i=1}^n x_i^2 - n \overline{x}^2}
