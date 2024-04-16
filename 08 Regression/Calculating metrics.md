@@ -48,7 +48,7 @@ The formula for calculating the slope ($\beta_1$) in simple linear regression th
 
 The fundamental expression for the slope, which you may already be familiar with from the above, is:
 
-$$
+> $$
 \beta_1 = \frac{\sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})}{\sum_{i=1}^n (x_i - \overline{x})^2}
 $$
 
