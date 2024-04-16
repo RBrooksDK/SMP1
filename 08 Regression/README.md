@@ -24,6 +24,8 @@ Linear regression is a statistical method used to model the relationship between
 - Prediction
 - Residual Analysis
 
+I've added a [page](08 Regression\Calculating metrics.ipynb) with all the useful formulas for calculating the parameters as well as the performance metrics, $r$ and $r^2$
+
 ## Problems to be worked on in/after class:
 
 If nothing is noted, assume it is “Exam”. If it is the reexam, it will be stated.
