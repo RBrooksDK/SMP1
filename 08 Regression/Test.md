@@ -7,7 +7,7 @@ In simple linear regression, the slope parameter (often denoted as $\beta_1$) re
 ### Least Squares Estimation:
 The most common method for calculating the slope in simple linear regression is the least squares estimation. The formula for the slope ($\beta_1$) using this method is:
  
-$$\beta_1 = \frac{ \sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})}{ \sum_{i=1}^n (x_i - \overline{x})^2}$$
+\begin{equation}\beta_1=\frac{\sum_{i=1}^n\left(x_i-\bar{x}\right)\left(y_i-\bar{y}\right)}{\sum_{i=1}^n\left(x_i-\bar{x}\right)^2}\end{equation}
 
 In this expression:
 
