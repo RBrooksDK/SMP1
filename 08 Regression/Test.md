@@ -11,10 +11,10 @@ The most common method for calculating the slope in simple linear regression is 
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
    
 
-$$\beta_1 = \frac{ \sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})}{ \sum_{i=1}^n (x_i - \overline{x})^2}$$
+$$`\beta_1 = \frac{ \sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})}{ \sum_{i=1}^n (x_i - \overline{x})^2}`$$
 
    In this expression:
-- $\sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})$ is the sum of the products of the deviations of $x$ and $y$ from their respective means. This term captures the covariance between $x$ and $y$, indicating how much $x$ and $y$ vary together from their mean values (though excluding $\frac{1}{n-1}$). This term is often denoted $S_{xy}$.
+- $`\sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})`$ is the sum of the products of the deviations of $x$ and $y$ from their respective means. This term captures the covariance between $x$ and $y$, indicating how much $x$ and $y$ vary together from their mean values (though excluding $\frac{1}{n-1}$). This term is often denoted $S_{xy}$.
 - $\overline{x}$ and $\overline{y}$ are the means of $x$ and $y$, respectively. These are calculated as $\overline{x} = \frac{1}{n} \sum_{i=1}^n x_i$ and $\overline{y} = \frac{1}{n} \sum_{i=1}^n y_i$, where $n$ is the number of observations.
 - $\sum_{i=1}^n (x_i - \overline{x})^2$ represents the sum of the squares of the deviations of $x$ from its mean. This term is a measure of the total variance in $x$ and helps normalize the covariance in the numerator. This term is often denoted $S_{xy}$.
 - $n$ is the number of observations, indicating the total number of data points in the dataset.
