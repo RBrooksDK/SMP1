@@ -40,13 +40,10 @@ I have compiled and uploaded all session from January 2021 to youtube. The link 
 
 Stichastic Modelling and Processing was first offered in 2014 and has been scheduled 1-2 times per year since then. The course responsible is Richard Brooks (RIB) and has been the only lecturer teaching the course.
 
-<div align="center">
   
 **Grade Distribution 2023 (ordinary exam only)**
 
-|---
 | Grade | Count |
-
 |-------|-------|
 | 12    | 1     |
 | 10    | 8     |
@@ -56,7 +53,7 @@ Stichastic Modelling and Processing was first offered in 2014 and has been sched
 | 00    | 2     |
 | -3    | 3     |
 
-</div>
+
 
 ## Lesson Plan
 
