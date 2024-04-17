@@ -74,3 +74,16 @@ Click on a session below to access a plan of a specific session and additional r
 | 09      | 19 Apr 08:20 – 11:50 | [Introduction to Stochastic Processes](https://github.com/RBrooksDK/SMP1/blob/main/09%20Introduction%20to%20Stochastic%20Processes/README.md)|
 | 10      | 26 Apr  08:20 – 11:50 | [Markov Chains](https://github.com/RBrooksDK/SMP1/blob/main/10%20Markov%20Chains/README.md) |
 
+
+<div style="float: right">
+Something that stays right and is not wrapped in a para.
+</div>
+
+{::options parse_block_html="true" /}
+
+<div>
+This is wrapped in a para.
+</div>
+<p>
+This can contain only *span* level elements.
+</p>
