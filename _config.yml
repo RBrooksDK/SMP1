@@ -5,3 +5,5 @@ plugins:
 title: Brooks homepage
 description: Bookmark this to keep an eye on my project updates!
 markdown: kramdown
+kramdown:
+  parse_block_html: true
