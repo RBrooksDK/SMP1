@@ -1,4 +1,4 @@
-theme: Slate
+remote_theme: pages-themes/modernist@v0.2.0
 title: Brooks homepage
 description: Bookmark this to keep an eye on my project updates!
 markdown: GFM
