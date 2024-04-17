@@ -44,7 +44,10 @@ Stichastic Modelling and Processing was first offered in 2014 and has been sched
   
 **Grade Distribution 2023 (ordinary exam only)**
 
-<div align="center">
+<div style="width: 100%; display: flex; justify-content: center;">
+  <table>
+    <tr>
+      <td markdown="1">
 
 | Grade | Count |
 |-------|-------|
@@ -56,7 +59,11 @@ Stichastic Modelling and Processing was first offered in 2014 and has been sched
 | 00    | 2     |
 | -3    | 3     |
 
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ## Lesson Plan
 
