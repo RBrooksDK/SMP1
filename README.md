@@ -56,6 +56,8 @@ Stichastic Modelling and Processing was first offered in 2014 and has been sched
 | -3    | 3     |
 </div>
 
+{::options parse_block_html="true" /}
+
 
 
 ## Lesson Plan
