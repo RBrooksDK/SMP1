@@ -59,6 +59,7 @@ Stichastic Modelling and Processing was first offered in 2014 and has been sched
 
 Click on a session below to access a plan of a specific session and additional resources for that session.
 
+<table align="center">
 
 | Session | Date                 | Topic                        |
 | ------- | :----:               | ---------------------------- |
@@ -74,6 +75,7 @@ Click on a session below to access a plan of a specific session and additional r
 | 09      | 19 Apr 08:20 – 11:50 | [Introduction to Stochastic Processes](https://github.com/RBrooksDK/SMP1/blob/main/09%20Introduction%20to%20Stochastic%20Processes/README.md)|
 | 10      | 26 Apr  08:20 – 11:50 | [Markov Chains](https://github.com/RBrooksDK/SMP1/blob/main/10%20Markov%20Chains/README.md) |
 
+</table>
 
 <div style="float: right">
 Something that stays right and is not wrapped in a para.
