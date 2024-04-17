@@ -41,10 +41,9 @@ I have compiled and uploaded all session from January 2021 to youtube. The link 
 Stichastic Modelling and Processing was first offered in 2014 and has been scheduled 1-2 times per year since then. The course responsible is Richard Brooks (RIB) and has been the only lecturer teaching the course.
 
 
-  
-**Grade Distribution 2023 (ordinary exam only)**
-
 <div align="center">
+
+**Grade Distribution 2023 (ordinary exam only)**
 
 | Grade | Count |
 |-------|-------|
@@ -64,6 +63,8 @@ Stichastic Modelling and Processing was first offered in 2014 and has been sched
 
 Click on a session below to access a plan of a specific session and additional resources for that session.
 
+<div align="center">
+
 
 | Session | Date                 | Topic                        |
 | ------- | :----:               | ---------------------------- |
@@ -79,3 +80,4 @@ Click on a session below to access a plan of a specific session and additional r
 | 09      | 19 Apr 08:20 – 11:50 | [Introduction to Stochastic Processes](https://github.com/RBrooksDK/SMP1/blob/main/09%20Introduction%20to%20Stochastic%20Processes/README.md)|
 | 10      | 26 Apr  08:20 – 11:50 | [Markov Chains](https://github.com/RBrooksDK/SMP1/blob/main/10%20Markov%20Chains/README.md) |
 
+</div>
