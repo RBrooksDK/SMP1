@@ -9,7 +9,7 @@ The most common method for calculating the slope in simple linear regression is 
  
 $$\beta_1 = \frac{ \sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})}{ \sum_{i=1}^n (x_i - \overline{x})^2}$$
 
-   In this expression:
+In this expression:
 
 $\sum_{i=1}^n (x_i - \overline{x})(y_i - \overline{y})$ is the sum of the products of the deviations of $x$ and $y$ from their respective means. This term captures the covariance between $x$ and $y$, indicating how much $x$ and $y$ vary together from their mean values (though excluding $\frac{1}{n-1}$). This term is often denoted $S_{xy}$.
 
