@@ -79,6 +79,6 @@ Click on a session below to access a plan of a specific session and additional r
 | 08      | 12 Apr 08:20 – 11:50 | [Regression](https://github.com/RBrooksDK/SMP1/blob/main/08%20Regression/README.md) |
 | 09      | 19 Apr 08:20 – 11:50 | [Introduction to Stochastic Processes](https://github.com/RBrooksDK/SMP1/blob/main/09%20Introduction%20to%20Stochastic%20Processes/README.md)|
 | 10      | 26 Apr  08:20 – 11:50 | [Markov Chains](https://github.com/RBrooksDK/SMP1/blob/main/10%20Markov%20Chains/README.md) |
-| 11      | 3 May  08:20 – 11:50 | [Recap and Exercises Markov Chains](11 Recap and Exercises Markov Chains/README.md) |
+| 11      | 3 May  08:20 – 11:50 | [Recap and Exercises Markov Chains](11%20Recap and%20Exercises%20Markov%20Chains/README.md) |
 
 </div>
