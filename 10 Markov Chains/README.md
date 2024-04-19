@@ -18,8 +18,6 @@ Markov chains are a mathematical framework used to model systems that change ove
 - Stationary distribution: The long-term distribution of states that a Markov chain approaches over time.
 - Expected value: The average value that a variable takes over many iterations of the Markov chain.
 
-If time permits, we will look at some recap and then we will talk exam.
-
 ## Problems to be worked on in class:
 
 Do Problems 10 and the Wiseflow exam cases covering the final topics.
