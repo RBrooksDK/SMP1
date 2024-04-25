@@ -2,7 +2,9 @@
 
 **Material:**
 
-[Session notes](https://drive.google.com/file/d/1mLSXpKfc34urRq1iS8nJ_Mgf5STyTNNa/view?usp=sharing)
+[Recap notes](https://drive.google.com/file/d/1YrRNbEuI3CzXbju8-dNLD3SJB1Nadbum/view?usp=sharing)
+
+[Session notes](https://drive.google.com/file/d/1wlPT8WzlZ91CqzwnlmhFfryKuElfnfoD/view?usp=sharing)
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EuqNIuAYAltDmfXlB9l-DpMBTP5g7G1XrHFCqcXim9OfNQ?e=pbUO6r)
 
