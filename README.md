@@ -69,7 +69,7 @@ Click on a session below to access a plan of a specific session and additional r
 | Session | Date                 | Topic                        |
 | ------- | :----:               | ---------------------------- |
 | 00      |                      | [Important Math Recap](/0%20Important%20MSE%20Recap/README.md)                          |
-| 01      | 9 Feb 08:20 – 11:50  | [Introduction + Recap Probability + Stochastic Variables](rbrooks.github.io/01%20Introduction%20+%20Recap%20Probability%20+%20Stochastic%20Variables/README.md) |
+| 01      | 9 Feb 08:20 – 11:50  | [Introduction + Recap Probability + Stochastic Variables](rbrooks.github.io/SMP1/01%20Introduction%20+%20Recap%20Probability%20+%20Stochastic%20Variables/README.md) |
 | 02      | 16 Feb 08:20 – 11:50 | [Discrete Random Variables](/02%20Discrete%20Random%20Variables/README.md) |
 | 03      | 23 Feb 08:20 – 11:50 | [Continuous Random Variables](https://github.com/RBrooksDK/SMP1/blob/main/03%20Continuous%20Random%20Variables/README.md) |
 | 04      | 1 Mar 08:20 – 11:50  | [Multivariate Random Variables](https://github.com/RBrooksDK/SMP1/blob/main/04%20Multivariate%20Random%20Variables/README.md) |
