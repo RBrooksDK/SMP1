@@ -68,11 +68,11 @@ Click on a session below to access a plan of a specific session and additional r
 
 | Session | Date                 | Topic                        |
 | ------- | :----:               | ---------------------------- |
-| 00      |                      | [Important Math Recap](/0%20Important%20MSE%20Recap/README.md)                          |
-| 01      | 9 Feb 08:20 – 11:50  | [Introduction + Recap Probability + Stochastic Variables](rbrooks.github.io/SMP1/01%20Introduction%20+%20Recap%20Probability%20+%20Stochastic%20Variables/README.md) |
-| 02      | 16 Feb 08:20 – 11:50 | [Discrete Random Variables](/02%20Discrete%20Random%20Variables/README.md) |
-| 03      | 23 Feb 08:20 – 11:50 | [Continuous Random Variables](https://github.com/RBrooksDK/SMP1/blob/main/03%20Continuous%20Random%20Variables/README.md) |
-| 04      | 1 Mar 08:20 – 11:50  | [Multivariate Random Variables](https://github.com/RBrooksDK/SMP1/blob/main/04%20Multivariate%20Random%20Variables/README.md) |
+| 00      |                      | [Important Math Recap](/0_Important_MSE_Recap/README.md)                          |
+| 01      | 9 Feb 08:20 – 11:50  | [Introduction + Recap Probability + Stochastic Variables](/01_Introduction_+_Recap_Probability_+_Stochastic_Variables/README.md) |
+| 02      | 16 Feb 08:20 – 11:50 | [Discrete Random Variables](/02_Discrete_Random_Variables/README.md) |
+| 03      | 23 Feb 08:20 – 11:50 | [Continuous Random Variables](/03_Continuous_Random_Variables/README.md) |
+| 04      | 1 Mar 08:20 – 11:50  | [Multivariate Random Variables](/04_Multivariate_Random_Variables/README.md) |
 | 05      | 8 Mar 08:20 – 11:50  | [Point Estimation and sampling](https://github.com/RBrooksDK/SMP1/blob/main/05%20Point%20Estimation%20and%20sampling/README.md) |
 | 06      | 15 Mar 08:20 – 11:50 | [Statistical Intervals](https://github.com/RBrooksDK/SMP1/blob/main/06%20Statistical%20Intervals/README.md) |
 | 07      | 22 Mar 08:20 – 11:50 | [Hypothesis Testing](https://github.com/RBrooksDK/SMP1/blob/main/07%20Hypothesis%20Testing/README.md) |
